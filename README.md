@@ -55,10 +55,5 @@ In case of fire detection, it automatically sends a **WhatsApp alert** using the
 
 ---
 
-## 📷 Screenshots (Optional)
-Include wiring or LCD screen shots if available.
-
----
-
 ## 📄 License
-MIT License — free to use, modify, and distribute.
+MIT License.
